@@ -9,5 +9,5 @@
 position = Vector2(98, 89)
 
 [node name="Enemy" parent="." instance=ExtResource("2_14jof")]
-position = Vector2(602, 274)
+position = Vector2(602, 273)
 gravity_scale = 0.0
